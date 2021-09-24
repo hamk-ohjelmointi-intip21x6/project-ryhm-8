@@ -1,0 +1,16 @@
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.exe
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.deps.json
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.runtimeconfig.json
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.runtimeconfig.dev.json
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.dll
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\bin\Debug\net5.0\ref\SovellusEsim1.dll
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\bin\Debug\net5.0\SovellusEsim1.pdb
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.AssemblyInfoInputs.cache
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.AssemblyInfo.cs
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.csproj.CoreCompileInputs.cache
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.dll
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\ref\SovellusEsim1.dll
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.pdb
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.genruntimeconfig.cache
+C:\Users\Lotta\Source\Repos\Palkanlaskenta\SovellusEsim1\obj\Debug\net5.0\SovellusEsim1.csproj.AssemblyReference.cache
